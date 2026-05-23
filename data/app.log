@@ -1,0 +1,34 @@
+2026-05-23 14:48:41,197 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:48:41,210 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:48:41,398 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:09,705 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:09,720 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:09,919 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:10,281 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:10,283 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:10,418 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:14,304 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:14,309 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:14,439 - tornado.general - INFO - C:\Users\dhruv\OneDrive\Desktop\To do list using python\app.py modified; restarting server
+2026-05-23 14:49:14,903 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:14,903 - __main__ - INFO - Starting server on port 8080
+2026-05-23 14:49:14,907 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:14,907 - __main__ - INFO - Starting server on port 8081
+2026-05-23 14:49:14,981 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:14,981 - __main__ - INFO - Starting server on port 8082
+2026-05-23 14:49:19,573 - app - INFO - Creating new data file: data\todos.json
+2026-05-23 14:49:24,709 - app - INFO - Creating new data file: data\todos.json
+2026-05-23 14:50:43,502 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:50:43,502 - __main__ - INFO - Starting server on port 8082
+2026-05-23 14:50:43,518 - __main__ - CRITICAL - Server startup failed: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2026-05-23 14:51:05,817 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:51:05,817 - __main__ - INFO - Starting server on port 8083
+2026-05-23 14:51:20,924 - tornado.access - INFO - 200 GET / (172.20.10.7) 1.54ms
+2026-05-23 14:51:21,032 - tornado.access - INFO - 101 GET /?app=index&session=NEW (172.20.10.7) 1.04ms
+2026-05-23 14:51:21,037 - __main__ - INFO - App started
+2026-05-23 14:52:59,042 - app - INFO - Creating new data file: data\todos.json
+2026-05-23 14:53:52,583 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-23 14:53:52,583 - __main__ - INFO - Starting server on port 8084
+2026-05-23 14:53:57,915 - tornado.access - INFO - 200 GET / (172.20.10.7) 1.31ms
+2026-05-23 14:53:58,062 - tornado.access - INFO - 101 GET /?app=index&session=NEW (172.20.10.7) 1.76ms
+2026-05-23 14:53:58,069 - __main__ - INFO - App started
