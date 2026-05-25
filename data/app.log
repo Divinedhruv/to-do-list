@@ -32,3 +32,8 @@
 2026-05-23 14:53:57,915 - tornado.access - INFO - 200 GET / (172.20.10.7) 1.31ms
 2026-05-23 14:53:58,062 - tornado.access - INFO - 101 GET /?app=index&session=NEW (172.20.10.7) 1.76ms
 2026-05-23 14:53:58,069 - __main__ - INFO - App started
+2026-05-24 15:05:35,986 - __main__ - INFO - Creating new data file: data\todos.json
+2026-05-24 15:05:35,987 - __main__ - INFO - Starting server on port 8080
+2026-05-24 15:05:45,086 - tornado.access - INFO - 200 GET / (192.168.29.139) 5.19ms
+2026-05-24 15:05:45,886 - tornado.access - INFO - 101 GET /?app=index&session=NEW (192.168.29.139) 2.00ms
+2026-05-24 15:05:45,899 - __main__ - INFO - App started
